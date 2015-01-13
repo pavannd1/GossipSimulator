@@ -37,13 +37,13 @@ $ sbt<br>
 
 or scala bitCoinMiner \<Number of nodes\> \<Topology\> \<Algorithm\>
 
-Topologies:
+Topologies:<br>
 1. line<br>
 2. full<br>
 3. 2d<br>
 4. imp2d
 
-Algorithms:
+Algorithms:<br>
 1. gossip<br>
 2. push-sum<br>
-________________________________________________________________________________________
+______________________________________________________________________________________
