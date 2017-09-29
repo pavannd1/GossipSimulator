@@ -36,7 +36,7 @@ $ sbt<br>
 \> compile<br>
 \> run \<Number of nodes\> \<Topology\> \<Algorithm\><br>
 
-or scala bitCoinMiner \<Number of nodes\> \<Topology\> \<Algorithm\>
+or scala gossip \<Number of nodes\> \<Topology\> \<Algorithm\>
 
 Topologies:<br>
 1. line<br>
